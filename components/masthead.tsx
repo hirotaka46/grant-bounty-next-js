@@ -8,6 +8,8 @@ const Masthead: React.FC = () => {
                 <h1 className="mb-6 text-4xl xl:text-5xl">Grant Bounty</h1>
                 <h2 className='mb-2 text-2xl xl:text-3xl tracking-tight'>
                     <span>App Development,</span> <span>done right.</span>
+		    <span>Stack Overflow Cryptify </span>                    
+		    <span>Answering questions has never been so rewarding</span>
                 </h2>
             </div>
         </div>
