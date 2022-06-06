@@ -18,7 +18,7 @@ const Home: NextPage = () => {
       
       <main className={styles.main}>
         <Masthead/>
-
+        
       </main>
 
       
